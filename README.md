@@ -246,8 +246,85 @@ Output :
 Pembuatan Form
 Form Input
 ```
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script language="javascript">
+        function test () {
+            var val1 = document.kirim.T1.value
+            if (val1%2 == 0)
+            document.kirim.T2.value="Bilangan genap"
+            else
+            document.kirim.T2.value="Bilangan ganjil"
+        }
+    </script>
+</head>
+<body>
+    <from method="post" name="kirim">
+        <p> BIL <input type="text" name="T1" size="20"> 
+        Merupakan BIL <input type="text" name="T2" size="20"></p>
+        <p><input type="button" value="TEBAK" name="B1" onclick=test()></p>
+    </from>
+</body>
+</html>
 ```
 
 output :
 
+<img width="478" alt="Screenshot 2023-10-26 202550" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/b0f8f397-dc97-4df7-a463-706132dc551e">
+
+Form Button.
+```
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Object Document</title>
+</head>
+<body>
+    <script language="javascript">
+    function ubahwarnaLB(warna) {
+        document.bgColor = warna;
+    }
+    function ubahwarnaLD(warna) {
+        document.fgColor = warna;
+    }
+    </script>
+    <h1>TES</h1>
+    <from>
+        <input type="button" value="Latar belakang hijau" onclick="ubahwarnaLB('green')">
+        <input type="button" value="Latar belakang putih" onclick="ubahwarnaLB('white')">
+        <input type="button" value="Text Kuning" onclick="ubahwarnaLD('yellow')">
+        <input type="button" value="Text Biru" onclick="ubahwarnaLD('blue')">
+    </from>
+    <script language="javascript">
+        document.write("dimodifikasi terakhir pada" + document.lastModified);
+    </script>
+</body>
+</html>
+```
+
+Output :
+- Klik latar belakang putih
+
+<img width="479" alt="Screenshot 2023-10-26 204956" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/d4cffbea-d37f-45d4-b74c-abbe4d589a71">
+
+- Klik latar belakang hijau
+
+<img width="479" alt="Screenshot 2023-10-26 205010" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/87614e4d-fcf0-4ca3-9627-3b86301adef9">
+
+- klik Text Kuning
+
+<img width="479" alt="Screenshot 2023-10-26 205040" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/31a38986-5c5e-4945-b587-8ae8c395d1e8">
+
+- Klik Text Biru
+
+<img width="478" alt="Screenshot 2023-10-26 205052" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/0e6f06fc-93f6-4a8a-9b06-eaba39487826">
+
+
+HTML DOM
+Pilihan menggunakan checkBox dengan perhitungan otomatis
+```
