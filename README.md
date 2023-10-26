@@ -243,3 +243,11 @@ Output :
 
 <img width="148" alt="Screenshot 2023-10-26 073935" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/29bca7ee-81ec-4a30-9013-f8353f7f0a9e">
 
+Pembuatan Form
+Form Input
+```
+
+```
+
+output :
+
