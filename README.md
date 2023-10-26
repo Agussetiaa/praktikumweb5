@@ -188,8 +188,56 @@ Output :
 
 Penggunaan operator switch untuk seleksi kondisi
 ```
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contoh program javascript</title>
+    <script language="javascript">
+        function test()
+        {
+            val1 = window.prompt("Input nilai (1-9): ")
+            switch (val1)
+            {
+                case "1":
+                    document.write("bilangin Satu")
+                    break
+                case "2":
+                    document.write("bilangin Dua")
+                    break
+                case "3":
+                    document.write("bilangin Tiga")
+                    break
+                case "4":
+                    document.write("bilangin Empat")
+                    break
+                case "5":
+                    document.write("bilangin Lima")
+                    break
+                default:
+                    document.write("bilangan lainnya")
+                
+            }
+        }
+    </script>
+</head>
+<body>
+    <input type="button" name="button1" value="switch" onclick=test()>
+</body>
+</html>
 ```
 
 Output :
+1. Jika di isi
+
+<img width="115" alt="Screenshot 2023-10-26 073950" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/ac19f2aa-e816-4322-a815-0c813825338a">
+
+<img width="344" alt="Screenshot 2023-10-26 074725" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/83f95bfb-a989-4bdd-a3f3-565e8a8fa383">
+
+2. Jika tidak di isi
+
+<img width="339" alt="Screenshot 2023-10-26 073922" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/a7867781-fd05-483c-930e-6081acc6abb8">
+
+<img width="148" alt="Screenshot 2023-10-26 073935" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/29bca7ee-81ec-4a30-9013-f8353f7f0a9e">
 
