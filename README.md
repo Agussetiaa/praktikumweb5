@@ -235,6 +235,8 @@ Output :
 
 <img width="344" alt="Screenshot 2023-10-26 074725" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/83f95bfb-a989-4bdd-a3f3-565e8a8fa383">
 
+<img width="163" alt="Screenshot 2023-10-26 074828" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/662f4c27-fdbf-4bf9-9691-3842fadd0257">
+
 2. Jika tidak di isi
 
 <img width="339" alt="Screenshot 2023-10-26 073922" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/a7867781-fd05-483c-930e-6081acc6abb8">
