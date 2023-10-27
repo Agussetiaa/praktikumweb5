@@ -25,7 +25,7 @@
 <img width="960" alt="Screenshot 2023-10-26 010400" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/247d828e-a826-4e06-a1c5-944d6a113dc0">
 
 ### Javascrip Dasar
-= Pemakaian Alert sebagai property window.
+- Pemakaian Alert sebagai property window.
 
 ```
 <!DOCTYPE html>
@@ -66,7 +66,7 @@
 </html>
 ```
 
-= Output:
+- Output:
 
 <img width="484" alt="Screenshot 2023-10-26 012333" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/0dbaae35-caf6-43bc-bc94-bd38e88cd8d5">
 
@@ -89,7 +89,7 @@
 </html>
 ```
 
-= Output :
+- Output :
 
 <img width="339" alt="Screenshot 2023-10-26 012843" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/4492bacf-d874-4110-8dfe-4d6d234d7915">
 
