@@ -1,5 +1,5 @@
-Langkah-langkah Praktikum
-Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti berikut.
+## Langkah-langkah Praktikum
+### Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti berikut.
 
 ```
 <!DOCTYPE html>
@@ -19,12 +19,13 @@ Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti ber
 </body>
 </html>
 ```
-Output :
+
+- Output :
 
 <img width="960" alt="Screenshot 2023-10-26 010400" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/247d828e-a826-4e06-a1c5-944d6a113dc0">
 
-Javascrip Dasar
-Pemakaian Alert sebagai property window.
+### Javascrip Dasar
+= Pemakaian Alert sebagai property window.
 
 ```
 <!DOCTYPE html>
@@ -41,11 +42,12 @@ Pemakaian Alert sebagai property window.
 </body>
 </html>
 ```
-Output:
+
+- Output:
 
 <img width="344" alt="Screenshot 2023-10-26 011619" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/ddc49d76-0b6a-4891-bd68-ee0246e1cf70">
 
-Pemakaian method dalam objek
+### Pemakaian method dalam objek
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -64,11 +66,11 @@ Pemakaian method dalam objek
 </html>
 ```
 
-Output:
+= Output:
 
 <img width="484" alt="Screenshot 2023-10-26 012333" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/0dbaae35-caf6-43bc-bc94-bd38e88cd8d5">
 
-Pemakaian Prompt
+### Pemakaian Prompt
 
 ```
 <!DOCTYPE html>
@@ -87,14 +89,14 @@ Pemakaian Prompt
 </html>
 ```
 
-Output :
+= Output :
 
 <img width="339" alt="Screenshot 2023-10-26 012843" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/4492bacf-d874-4110-8dfe-4d6d234d7915">
 
 <img width="487" alt="Screenshot 2023-10-26 012859" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/25f0d095-7b5f-46d1-ad71-ff6e8ac7ca49">
 
 
-Pembuatan fungsi dan cara pemanggilannya
+### Pembuatan fungsi dan cara pemanggilannya
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -113,12 +115,12 @@ Pembuatan fungsi dan cara pemanggilannya
 </html>
 ```
 
-Output :
+- Output :
 
 <img width="339" alt="Screenshot 2023-10-26 013658" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/cd2c95bd-259b-4ddd-825a-c26eafa3ba31">
 
-Dasar Pemrograman Di Javascript
-Operasi dasar aritmatika
+### Dasar Pemrograman Di Javascript
+- Operasi dasar aritmatika
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -149,14 +151,14 @@ Operasi dasar aritmatika
 </html>
 ```
 
-Output :
+- Output :
 
 <img width="105" alt="Screenshot 2023-10-26 021442" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/562850e4-1c3b-4282-90d4-fa06620b470a">
 
 <img width="473" alt="Screenshot 2023-10-26 021426" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/f70ba9b2-a0bd-428c-a50f-ad5108b877b5">
 
 
-Seleksi kondisi (if..else)
+### Seleksi kondisi (if..else)
 
 ```
 <!DOCTYPE html>
@@ -180,13 +182,13 @@ Seleksi kondisi (if..else)
 </html>
 ```
 
-Output :
+- Output :
 
 <img width="341" alt="Screenshot 2023-10-26 022222" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/f5ddb5e2-0741-4e3d-858d-ae0c3e024d8a">
 
 <img width="112" alt="Screenshot 2023-10-26 022550" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/365eace6-760d-4ddc-a376-1dbf61b586d9">
 
-Penggunaan operator switch untuk seleksi kondisi
+### Penggunaan operator switch untuk seleksi kondisi
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -228,8 +230,9 @@ Penggunaan operator switch untuk seleksi kondisi
 </html>
 ```
 
-Output :
-1. Jika di isi
+_ Output :
+
+- 1. Jika di isi
 
 <img width="115" alt="Screenshot 2023-10-26 073950" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/ac19f2aa-e816-4322-a815-0c813825338a">
 
@@ -237,14 +240,14 @@ Output :
 
 <img width="163" alt="Screenshot 2023-10-26 074828" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/662f4c27-fdbf-4bf9-9691-3842fadd0257">
 
-2. Jika tidak di isi
+- 2. Jika tidak di isi
 
 <img width="339" alt="Screenshot 2023-10-26 073922" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/a7867781-fd05-483c-930e-6081acc6abb8">
 
 <img width="148" alt="Screenshot 2023-10-26 073935" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/29bca7ee-81ec-4a30-9013-f8353f7f0a9e">
 
-Pembuatan Form
-Form Input
+### Pembuatan Form
+- Form Input
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -271,11 +274,11 @@ Form Input
 </html>
 ```
 
-output :
+- output :
 
 <img width="478" alt="Screenshot 2023-10-26 202550" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/b0f8f397-dc97-4df7-a463-706132dc551e">
 
-Form Button.
+### Form Button.
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -307,7 +310,8 @@ Form Button.
 </html>
 ```
 
-Output :
+- Output :
+
 - Klik latar belakang putih
 
 <img width="479" alt="Screenshot 2023-10-26 204956" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/d4cffbea-d37f-45d4-b74c-abbe4d589a71">
@@ -325,8 +329,8 @@ Output :
 <img width="478" alt="Screenshot 2023-10-26 205052" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/0e6f06fc-93f6-4a8a-9b06-eaba39487826">
 
 
-HTML DOM
-Pilihan menggunakan checkBox dengan perhitungan otomatis
+### HTML DOM
+- Pilihan menggunakan checkBox dengan perhitungan otomatis
 ```
 <!DOCTYPE html>
 <br lang="en">
@@ -361,6 +365,126 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
 </html>
 ```
 
-Output :
+- Output :
 
 <img width="479" alt="Screenshot 2023-10-27 015210" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/9e762566-fc02-44a8-9da6-42bb47b0b8e2">
+
+### Pertanyaan dan Tugas
+### 1. Buat script untuk melakukan validasi pada isian form.
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Validasi Form</title>
+
+    <script>
+        function validateForm() {
+            var name = document.forms["myForm"]["name"].value;
+            var email = document.forms["myForm"]["email"].value;
+            var password = document.forms["myForm"]["password"].value;
+
+            if (name == "") {
+                alert("Nama harus diisi");
+                return false;
+            }
+
+            if (email == "") {
+                alert("Email harus diisi");
+                return false;
+            }
+
+            if (password == "") {
+                alert("Password harus diisi");
+                return false;
+            }
+
+            return true;
+        }
+
+        function showError(errorMessage) {
+            var errorElement = document.getElementById("error-message");
+            errorElement.innerHTML = errorMessage;
+        }
+    </script>
+</head>
+<body>
+    <h2>Form Validasi</h2>
+    <form name="myForm" onsubmit="return validateForm()">
+        <label for="name">Nama:</label>
+        <input type="text" id="name" name="name">
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email">
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password">
+
+        <input type="submit" value="Kirim">
+
+        <div id="error-message" class="error"></div>
+    </form>
+</body>
+</html>
+```
+### style.css
+```
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: burlywood;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.error {
+    color: red;
+    margin-bottom: 10px;
+}
+```
+
+- output
+
+<img width="478" alt="Screenshot 2023-10-27 151843" src="https://github.com/Agussetiaa/praktikumweb5/assets/115542822/e2332849-6a85-4f47-b133-9006056958aa">
